@@ -1,0 +1,49 @@
+{
+  "technologies": [
+    {
+      "id": 1,
+      "name": "HTML5",
+      "icon": "/src/assets/icons/tech/HTML5_Badge.svg"
+    },
+    {
+      "id": 2,
+      "name": "CSS3",
+      "icon": "/src/assets/icons/tech/css3.svg"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript",
+      "icon": "/src/assets/icons/tech/javascript.svg"
+    },
+    {
+      "id": 4,
+      "name": "TypeScript",
+      "icon": "/src/assets/icons/tech/TypeScript-Alt.svg"
+    },
+    {
+      "id": 5,
+      "name": "React",
+      "icon": "/src/assets/icons/tech/react copy.svg"
+    },
+    {
+      "id": 6,
+      "name": "Redux",
+      "icon": "/src/assets/icons/tech/redux.svg"
+    },
+    {
+      "id": 7,
+      "name": "Git",
+      "icon": "/src/assets/icons/tech/git.svg"
+    },
+    {
+      "id": 8,
+      "name": "GitHub",
+      "icon": "/src/assets/icons/tech/github-svgrepo-com.svg"
+    },
+    {
+      "id": 9,
+      "name": "Galp",
+      "icon": "/src/assets/icons/tech/Gulp.svg"
+    }
+  ]
+}

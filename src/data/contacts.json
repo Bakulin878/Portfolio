@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "telegram",
+      "description": "Написать в Telegram",
+      "livePreviewUrl": "https://t.me/Bakulin_878",
+      "icon": "/src/assets/contacts/telegram.svg"
+    },
+    {
+      "id": 2,
+      "name": "whatsapp",
+      "description": "Отправить в WhatsApp",
+      "livePreviewUrl": "https://wa.me/qr/NP6YWXXKVVXTA1",
+      "icon": "/src/assets/contacts/whatsapp.svg"
+    },
+    {
+      "id": 3,
+      "name": "vk",
+      "description": "Связаться Вконтакте",
+      "livePreviewUrl": "https://vk.com/id226720627",
+      "icon": "/src/assets/contacts/vk.svg"
+    }
+  ]
+}

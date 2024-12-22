@@ -1,0 +1,64 @@
+.contacts {
+  padding: 80px 0;
+  border-top-left-radius: 100px;
+  background-color: #252525;
+  color: #fff;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.contacts__contacts_title {
+  margin-bottom: 65px;
+  font-size: 52px;
+  font-weight: 700;
+  text-align: center;
+}
+.contacts__messangers {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+.contacts__messanger {
+  flex-grow: 1;
+  display: flex;
+  column-gap: 15px;
+  align-items: center;
+  padding: 46px 20px;
+  border-radius: 20px;
+  border: 1px solid #363636;
+  color: #fff;
+  font-weight: 400;
+  font-size: 20px;
+  transition: background-color 0.2s ease-in;
+}
+.contacts__messanger:hover {
+  background-color: #1E1E1E;
+}
+
+@media screen and (max-width: 1080px) {
+
+}
+
+@media screen and (max-width: 767px) {
+  .contacts {
+    padding: 40px 0;
+    border-top-left-radius: 60px;
+  }
+
+  .contacts__contacts-title {
+    margin-bottom: 30px;
+    font-size: 28px;
+  }
+
+  .contacts__messangers {
+    gap: 20px;
+  }
+
+  .contacts__messanger {
+    padding: 32px 20px;
+    border-radius: 12px;
+    font-size: 16px;
+  }
+}

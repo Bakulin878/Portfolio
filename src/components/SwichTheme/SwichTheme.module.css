@@ -1,0 +1,39 @@
+.swich {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  bottom: 40px; /* Расстояние от нижнего края */
+  right: 40px; /* Расстояние от правого края */
+  z-index: 10;
+  border: 2px solid white;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.swich:hover {
+  border-color: #ec7c26;
+}
+.swich:active {
+  transform: scale(0.9); /* Уменьшение */
+  background-color: rgba(255, 255, 255, 0.2); /* Легкое подсвечивание */
+}
+
+@media screen and (max-width: 1080px) {
+  .swich {
+    width: 45px;
+    height: 45px;
+    bottom: 32px;
+    right: 32px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .swich {
+    width: 60px;
+    height: 29px;
+    bottom: 7px;
+    right: 19px;
+    border-radius: 31px 0px 31px 0px; /* Верхние и нижние углы */
+  }
+}

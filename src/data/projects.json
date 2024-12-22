@@ -1,0 +1,67 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Сайт Evklid Design Systems",
+      "description": "Сайт Evklid Design Systems",
+      "image": "/src/assets/images/portfolio__project/Evklid_min.webp",
+      "techStack": ["HTML", "JavaScript", "SASS"],
+      "livePreviewUrl": "https://bakulin878.github.io/Portfolio_Nikita.io/files/Evklid%20Design%20Systems/index.html",
+      "codeUrl": "https://github.com"
+    },
+    {
+      "id": 2,
+      "title": "Сайт Relvise",
+      "description": "Сайт Relvise",
+      "image": "/src/assets/images/portfolio__project/relvise_min.webp",
+      "techStack": ["React", "TypeScript", "Tailwind"],
+      "livePreviewUrl": "https://bakulin878.github.io/Portfolio_Nikita.io/files/Relvise/index.html",
+      "codeUrl": "https://github.com"
+    },
+    {
+      "id": 3,
+      "title": "Frendy cookies",
+      "description": "Frendy cookies",
+      "image": "/src/assets/images/portfolio__project/intensive_min.webp",
+      "techStack": ["HTML", "JavaScript", "SASS"],
+      "livePreviewUrl": "https://bakulin878.github.io/Cookies/",
+      "codeUrl": "https://github.com"
+    },
+    {
+      "id": 4,
+      "title": "Burgers",
+      "description": "Burgers",
+      "image": "/src/assets/images/portfolio__project/burgers_min.webp",
+      "techStack": ["HTML", "JavaScript", "SASS"],
+      "livePreviewUrl": "https://bakulin878.github.io/Burgers/",
+      "codeUrl": "https://github.com"
+    },
+    {
+      "id": 5,
+      "title": "Сайт LIONIC-Legal-Solution",
+      "description": "Сайт LIONIC-Legal-Solution",
+      "image": "/src/assets/images/portfolio__project/Lionic_min.webp",
+      "techStack": ["HTML", "JavaScript", "SASS"],
+      "livePreviewUrl": "https://bakulin878.github.io/Portfolio_Nikita.io/files/LIONIC-Legal-Solution/index.html",
+      "codeUrl": "https://github.com"
+    },
+    {
+      "id": 6,
+      "title": "Сайт FromBoard-Delivery",
+      "description": "Сайт FromBoard-Delivery",
+      "image": "/src/assets/images/portfolio__project/FromBoard_min.webp",
+      "techStack": ["HTML", "JavaScript", "SASS"],
+      "livePreviewUrl": "https://bakulin878.github.io/Portfolio_Nikita.io/files/FromBoard-Delivery/index.html",
+      "codeUrl": "https://github.com"
+    },
+    {
+      "id": 7,
+      "title": "Сайт Туризм по горам",
+      "description": "Сайт Туризм по горам",
+      "image": "/src/assets/images/portfolio__project/MNTN_min.webp",
+      "techStack": ["HTML", "JavaScript", "SASS"],
+      "livePreviewUrl": "https://bakulin878.github.io/Portfolio_Nikita.io/files/MNTN/index.html",
+      "codeUrl": "https://github.com"
+    }
+  ]
+}
